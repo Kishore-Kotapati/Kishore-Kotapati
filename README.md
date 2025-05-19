@@ -1,4 +1,4 @@
-# Hey there, I’m Kishore! 👋
+# Hey there, I’m Kotapati Kishore! 👋
 
 I'm an Electrical Engineering undergrad at *NIT Manipur* who's really into building cool stuff that actually works — from smart embedded systems to simulations that bring numbers to life.
 
