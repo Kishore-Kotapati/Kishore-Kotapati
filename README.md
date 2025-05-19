@@ -41,10 +41,11 @@ National Institute of Technology Manipur (2023–present{2027})
 ---
 
 ## 📬 Let’s Connect
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/your-profile]  
-- GitHub: [github.com/your-username]
+- Email: [kishorekotapati01@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/kishore-kotapati-561569299]  
+- GitHub: [https://github.com/Kishore-Kotapati]
 
 ---
 
 Always building, always curious. Let’s make something awesome.
+Eat, Sleep, Chill..
